@@ -1,1 +1,2 @@
-# belajar-git
+Nama : Mughny
+Warna : Hitam
